@@ -1,0 +1,34 @@
+1. d
+
+3. a
+
+5. c
+
+7. b
+
+9. d
+
+11. b
+
+13. c
+
+15. d
+
+--
+
+17. PROC PRINT DATA = new;
+RUN;
+
+19. Numeric
+
+21.  It starts with the first observation and runs on each observation.
+
+23. Run and Options
+
+25. It allows you to specify exactly where you want to store the data instead of using the default location
+
+
+
+
+
+--------------
