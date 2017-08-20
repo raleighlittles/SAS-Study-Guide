@@ -1,0 +1,25 @@
+1. General Knowledge Questions
+
+a. Statistical Analysis System
+b. Editor, Log, Explorer, Results Viewer, Output 
+c. All statements start with a keyword and end with a semicolon?
+d.  Single line comments begin with asterisk and end with semicolon, multiline statements begin with '/*' and end with '*/'
+e. 1) Run -> Submit, 2) Running Man icon, 3) Using the command line, type "submit" and then press enter, 4) Using the F8 key, 5) ???
+f. 1) Data step, 2) Proc step 
+g. Edit-> Clear All
+
+
+2. Creating Libraries
+
+A. 
+
+/* 'X:/' is the file drive letter for my flash drive */
+libname mydrive "X:/Raleigh Littles/" 
+
+libname myclass "C:/Classes/PSTAT 130/airlines one/"
+
+/* The default SAS storage location is 'C:\Users\SSMS-1301-22\Documents\My SAS Files\9.4\' */
+libname temp130 "C:\Users\SSMS-1301-22\Documents\My SAS Files\9.4\"
+
+
+

@@ -1,0 +1,20 @@
+General knowledge questions
+------------------------------------
+
+1. Missing numeric values show up as a single decimal point (".") and missing character variables show up 
+as a blank space
+
+2. Missing numeric value is smaller than all other numbers
+
+3. User defined formats work for numeric and character variables
+
+4.  ??????????????????????
+
+5. Variables are sorted in ascending order by default
+
+6.  ?????
+
+7. Use the PAGEBY command, but you have to use the BY statement before the PAGEBY 
+
+8. Columns are variables, Rows are observations?
+
