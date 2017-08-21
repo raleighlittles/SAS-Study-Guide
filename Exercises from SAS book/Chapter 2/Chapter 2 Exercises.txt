@@ -7,4 +7,56 @@
 
 7. b
 
-9. 
+9. b
+
+11. a
+
+13. c
+
+15. c
+
+17.  c
+
+19. b
+
+21. c 
+
+23. a
+
+25. c
+
+-----
+
+27. Internal data (ie. in the editor) works if you only have a small number of observations, whereas
+external data is easier to work with when you have a large number of observations and thus it isn't 
+feasible to type them in
+
+29. 1) Missing data indicated by a space
+	2) Character data that has embedded spaces 
+	3) Character data longer than 8 characters (assuming there was no informat/length statement)
+	4) Numeric data in scientific notation
+	5) Data that are not space separated
+	
+	
+31. 
+
+INPUT Brand $1-18 Qty Amount DOLLAR6.2;
+
+33. By using a diferent delimiter other than spaces (such as commas), you will be able to read in 
+data values that have an embedded space 
+
+35. 
+
+INPUT ID Group $1 @@;
+IF Group= 'B' THEN DELETE;
+
+37. TRUNCOVER is used for column/formatted input when your dataset has variables of varying lengths. MISSOVER can handle varying length records but will instead assign missing values to variables with missing data at the end of the record 
+
+39. 
+INFILE 'c:\MyRawData\Records.csv' DLM= ',' MISSOVER;
+
+41.  
+With LIBNAME, you only have to define the location once and then refer to the libref throughout the program
+
+---
+
