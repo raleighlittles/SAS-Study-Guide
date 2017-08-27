@@ -1,0 +1,11 @@
+Knowledge Questions
+
+1. The @ symbol moves the pointer to a specific column, this method is called absolute pointer control
+
+2. The + symbol moves the pointer over a specific number of columns, this method is called relative pointer control
+
+3. Keep/Retain ??????????????
+
+4.  permanently, temporary
+
+5. Keep, retain, drop
