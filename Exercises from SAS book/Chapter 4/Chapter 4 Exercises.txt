@@ -1,0 +1,32 @@
+1. B
+
+3. D
+
+5. B
+
+7. D
+
+9. D
+
+11. B
+
+13. A
+
+15. C
+
+17. C
+
+19. B
+
+21.  B
+
+--
+
+31. When using the CLASS statement with PROC MEANS, the data don't need to be sorted already, whereas this is not true for the By statement. 
+
+33. Using the output statement in proc means will store the summary report into a new dataset so no its not necessary.
+
+35.  PROC REPORT can create computed variables, and listing reports (one row per operation) whereas PROC tablulate can only make summary reports, and PROC tabulate can 
+only use summary reports as headers.
+
+

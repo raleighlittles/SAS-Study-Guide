@@ -1,0 +1,33 @@
+1. B
+
+3. B
+
+5. C
+
+7. A
+
+9. C
+
+11. B
+
+13. B
+
+15. A
+
+---
+
+17. Because '.' is a character quantity (a string) and cannot be assigned to a numeric variable.
+
+19. Yes, because it could make your character variables consistent so you can analyze them properly
+
+23. ELSE statements are less specific than using an ELSE IF statement
+
+25. For readability
+
+27. RETAIN statement is used to keep variables in a dataset creation (and is an inbuilt keyword) whereas 
+the sum statement is a built-in SAS function.
+
+
+---
+
+
