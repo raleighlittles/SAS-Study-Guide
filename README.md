@@ -17,3 +17,8 @@ This "study guide" contains 3 different types of training materials:
 
 This directory contains all of the datasets that are needed to complete exercises -- if you see a dataset referenced by name in one of the exercises but there is no dataset in that directory, then see the `Datasets` directory.
 
+## Show thanks!
+
+If these study materials helped you with your interview assessments, please feel free to show your gratitude.
+
+<a href="https://www.buymeacoffee.com/raleighlittles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
